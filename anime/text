@@ -1,0 +1,5 @@
+<a href="tel:0123456789">Call</a>
+
+
+<a href="whatsapp://send?text=Hello%20World!">Hello, world!</a>
+<a href="https://wa.me/15551234567">Whatsapp Me</a>
